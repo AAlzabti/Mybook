@@ -1,0 +1,1479 @@
+{
+  "generatedAt": "2026-11-21T13:58:25.949Z",
+  "bookTitle": "Nova and the Fallen Stars",
+  "subtitle": "A Magical Story & Coloring Adventure",
+  "pageCount": 92,
+  "trimSizeIn": {
+    "width": 8.5,
+    "height": 11
+  },
+  "paperStock": "White Paper (Black & White Interior)",
+  "bleedMode": "No Bleed (Interior) / Full Bleed 0.125\" (Cover)",
+  "interior": {
+    "original": {
+      "fileName": "Nova_and_the_Fallen_Stars_Interior_92p_KDP_0ef6f7e7.pdf",
+      "fileSizeBytes": 3033931,
+      "widthIn": 8.5,
+      "heightIn": 11.0033,
+      "widthPt": 612,
+      "heightPt": 792.24,
+      "embeddedFonts": 0,
+      "rasterImages": 92,
+      "encoding": "1-bit Monochrome CCITT Fax (300 DPI Raster)",
+      "vectorPaths": false
+    },
+    "master": {
+      "fileName": "Nova_and_the_Fallen_Stars_Interior_92p_KDP_Vector_Master.pdf",
+      "downloadUrl": "/api/download/interior",
+      "fileSizeBytes": 17128298,
+      "widthIn": 8.5,
+      "heightIn": 11,
+      "widthPt": 612,
+      "heightPt": 792,
+      "embeddedFonts": 4,
+      "rasterImages": 0,
+      "tracedArtworkPages": 46,
+      "pureVectorTextPages": 42,
+      "blankPages": 4,
+      "encoding": "100% Native PDF Cubic Bezier Vectors + Embedded TrueType Fonts",
+      "vectorPaths": true
+    },
+    "margins": {
+      "minInsideGutterIn": 0.667,
+      "requiredInsideGutterIn": 0.375,
+      "minOutsideIn": 0.567,
+      "requiredOutsideIn": 0.25,
+      "minTopIn": 0.51,
+      "minBottomIn": 0.503,
+      "allPagesPass": true
+    }
+  },
+  "cover": {
+    "original": {
+      "fileName": "Nova_and_the_Fallen_Stars_Full_Wrap_Cover_KDP_fd61fdb0.pdf",
+      "fileSizeBytes": 2807370,
+      "widthIn": 17.4533,
+      "heightIn": 11.2467,
+      "widthPt": 1256.64,
+      "heightPt": 809.76,
+      "dpi": 300,
+      "embeddedFonts": 0,
+      "spineTextPresent": true,
+      "barcodeBoxIn": {
+        "x": 6.278,
+        "y": 9.583,
+        "width": 1.972,
+        "height": 1.167
+      }
+    },
+    "master": {
+      "fileName": "Nova_and_the_Fallen_Stars_Full_Wrap_Cover_KDP_Master.pdf",
+      "downloadUrl": "/api/download/cover",
+      "fileSizeBytes": 13827425,
+      "widthIn": 17.4572,
+      "heightIn": 11.25,
+      "widthPt": 1256.92,
+      "heightPt": 810,
+      "dpi": 450,
+      "embeddedFonts": 3,
+      "spineWidthIn": 0.2072,
+      "spineTextPresent": false,
+      "barcodeBoxIn": {
+        "x": 6.375,
+        "y": 9.675,
+        "width": 2,
+        "height": 1.2
+      },
+      "hasTrimAndBleedBoxes": true
+    }
+  },
+  "fixesApplied": [
+    {
+      "id": "interior-vector",
+      "target": "interior",
+      "page": 9,
+      "titleAr": "تحويل كامل الرسوم الـ 46 إلى فيكتور (Cubic Bezier Paths)",
+      "beforeAr": "صور 1-bit نقطية بدقة 300 DPI تظهر تعرّجاً في المنحنيات عند التكبير والطباعة",
+      "afterAr": "مسارات فيكتور نقية لا محدودة الدقة (0 صور نقطية داخل الملف الداخلي بالكامل)"
+    },
+    {
+      "id": "interior-fonts",
+      "target": "interior",
+      "page": 8,
+      "titleAr": "إعادة بناء جميع النصوص بخطوط فيكتور مدمجة (Embedded Fonts)",
+      "beforeAr": "0 خطوط مدمجة — جميع الفصول والعناوين كانت صوراً نقطية",
+      "afterAr": "4 عائلات خطوط TrueType مدمجة بالكامل في جميع صفحات القصة والعناوين والشهادة"
+    },
+    {
+      "id": "interior-trim",
+      "target": "interior",
+      "page": 1,
+      "titleAr": "ضبط مقاس TrimBox و MediaBox الداخلي بدقة KDP",
+      "beforeAr": "8.500 × 11.0033 بوصة (612.0 × 792.24 نقطة)",
+      "afterAr": "8.5000 × 11.0000 بوصة (612.00 × 792.00 نقطة) مطابقة 100%"
+    },
+    {
+      "id": "fix-p2",
+      "target": "interior",
+      "page": 2,
+      "titleAr": "تصحيح عبارة الوجه الواحد في صفحة الحقوق (ص 2)",
+      "beforeAr": "تذكر أن كل صفحة تلوين مطبوعة على وجه واحد رغم وجود نص الفصل التالي في ظهرها",
+      "afterAr": "توضح بدقة تخطيط الفتحة المزدوجة (قصة يسار + تلوين يمين) مع نصيحة ورقة الحماية للماركر"
+    },
+    {
+      "id": "fix-p5",
+      "target": "interior",
+      "page": 5,
+      "titleAr": "توسيط أسماء الشخصيات داخل الأشرطة (ص 5)",
+      "beforeAr": "الأسماء NOVA / PEBBLE / CAPTAIN BUTTON / GRUMBLE / MAMA OWL ملتصقة بالحد العلوي للشريط",
+      "afterAr": "توسيط عمودي وأفقي دقيق بفيكتور نقي داخل منتصف كل شريط دون مساس بالرسم"
+    },
+    {
+      "id": "fix-p87",
+      "target": "interior",
+      "page": 87,
+      "titleAr": "إزالة تداخل النص مع أذن الثعلب نوفا (ص 87)",
+      "beforeAr": "عبارة \"My Star's Name:\" متداخلة مباشرة فوق أذن نوفا اليسرى",
+      "afterAr": "إزالة التداخل ونقل العبارة وخط الكتابة بفيكتور نظيف إلى المساحة المفتوحة يمين الشخصية"
+    },
+    {
+      "id": "cover-spine",
+      "target": "cover",
+      "page": 0,
+      "titleAr": "إزالة نص كعب الغلاف الضيق (0.207 بوصة)",
+      "beforeAr": "نص عمودي على كعب 0.207\" معرض لرفض KDP أو الانحراف عند التجليد",
+      "afterAr": "إزالة سلسة لنص الكعب مع الحفاظ على التدرج الكحلي الموحد لكعب الكتاب"
+    },
+    {
+      "id": "cover-barcode-dim",
+      "target": "cover",
+      "page": 0,
+      "titleAr": "ضبط مقاس الغلاف الكامل ومربع الباركود ونصوص ظهر الغلاف",
+      "beforeAr": "مقاس 17.453×11.247\" ومربع باركود مُزاح (1.972×1.167\") ونصوص JPEG بدقة 300 DPI",
+      "afterAr": "مقاس دقيق 17.457×11.250\" + مربع باركود 2.000×1.200\" على بُعد 0.25\" + دقة 450 DPI ونصوص ظهر غلاف فيكتور"
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "category": "title",
+      "side": "recto",
+      "title": "Title Page — Nova and the Fallen Stars",
+      "margins": {
+        "leftIn": 0.683,
+        "rightIn": 0.58,
+        "topIn": 0.583,
+        "bottomIn": 0.58,
+        "passes": true
+      }
+    },
+    {
+      "page": 2,
+      "category": "copyright",
+      "side": "verso",
+      "title": "Copyright & Parent Tip",
+      "hasVisualFix": true,
+      "fixSummaryAr": "تحديث نص نصيحة الآباء ليعكس تخطيط الـ 92 صفحة بدقة (قصة يسار + تلوين يمين) بدلاً من عبارة الوجه الواحد غير الدقيقة، مع إعادة بنائها بخطوط فيكتور مدمجة.",
+      "margins": {
+        "leftIn": 1.943,
+        "rightIn": 2.037,
+        "topIn": 2.817,
+        "bottomIn": 5.073,
+        "passes": true
+      }
+    },
+    {
+      "page": 3,
+      "category": "activity",
+      "side": "recto",
+      "title": "This Book Belongs To",
+      "margins": {
+        "leftIn": 0.79,
+        "rightIn": 0.683,
+        "topIn": 0.793,
+        "bottomIn": 0.813,
+        "passes": true
+      }
+    },
+    {
+      "page": 4,
+      "category": "blank",
+      "side": "verso",
+      "title": "Blank Page (Back of Belongs To)",
+      "margins": {
+        "leftIn": 8.5,
+        "rightIn": 8.5,
+        "topIn": 11,
+        "bottomIn": 11,
+        "passes": true
+      }
+    },
+    {
+      "page": 5,
+      "category": "activity",
+      "side": "recto",
+      "title": "Meet Your Adventure Friends!",
+      "hasVisualFix": true,
+      "fixSummaryAr": "إزالة أسماء الشخصيات الملتصقة بالحد العلوي للأشرطة وإعادة طباعتها بفيكتور متمركز تماماً في منتصف كل شريط (NOVA, PEBBLE, CAPTAIN BUTTON, GRUMBLE, MAMA OWL).",
+      "margins": {
+        "leftIn": 0.827,
+        "rightIn": 0.723,
+        "topIn": 0.523,
+        "bottomIn": 0.657,
+        "passes": true
+      }
+    },
+    {
+      "page": 6,
+      "category": "blank",
+      "side": "verso",
+      "title": "Blank Page (Back of Friends)",
+      "margins": {
+        "leftIn": 8.5,
+        "rightIn": 8.5,
+        "topIn": 11,
+        "bottomIn": 11,
+        "passes": true
+      }
+    },
+    {
+      "page": 7,
+      "category": "activity",
+      "side": "recto",
+      "title": "Nova's Starlight Color-Test Page",
+      "margins": {
+        "leftIn": 0.787,
+        "rightIn": 0.68,
+        "topIn": 0.523,
+        "bottomIn": 0.603,
+        "passes": true
+      }
+    },
+    {
+      "page": 8,
+      "category": "story",
+      "side": "verso",
+      "chapter": 1,
+      "title": "Chapter 1: Nova's Cozy Den (Story)",
+      "margins": {
+        "leftIn": 0.957,
+        "rightIn": 1.07,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 9,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 1,
+      "title": "1. Nova's Cozy Den (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.723,
+        "rightIn": 0.623,
+        "topIn": 0.513,
+        "bottomIn": 0.57,
+        "passes": true
+      }
+    },
+    {
+      "page": 10,
+      "category": "story",
+      "side": "verso",
+      "chapter": 2,
+      "title": "Chapter 2: The Night the Sky Rained Stars (Story)",
+      "margins": {
+        "leftIn": 0.983,
+        "rightIn": 1.08,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 11,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 2,
+      "title": "2. The Night the Sky Rained Stars (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.737,
+        "rightIn": 0.637,
+        "topIn": 0.51,
+        "bottomIn": 0.617,
+        "passes": true
+      }
+    },
+    {
+      "page": 12,
+      "category": "story",
+      "side": "verso",
+      "chapter": 3,
+      "title": "Chapter 3: Tail Up, Star Bright! (Story)",
+      "margins": {
+        "leftIn": 0.973,
+        "rightIn": 1.07,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 13,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 3,
+      "title": "3. Tail Up, Star Bright! (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.713,
+        "rightIn": 0.607,
+        "topIn": 0.51,
+        "bottomIn": 0.617,
+        "passes": true
+      }
+    },
+    {
+      "page": 14,
+      "category": "story",
+      "side": "verso",
+      "chapter": 4,
+      "title": "Chapter 4: Meeting Pebble (Story)",
+      "margins": {
+        "leftIn": 0.983,
+        "rightIn": 1.08,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 15,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 4,
+      "title": "4. Meeting Pebble (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.797,
+        "rightIn": 0.687,
+        "topIn": 0.51,
+        "bottomIn": 0.7,
+        "passes": true
+      }
+    },
+    {
+      "page": 16,
+      "category": "story",
+      "side": "verso",
+      "chapter": 5,
+      "title": "Chapter 5: Mama Owl's Starry Tree (Story)",
+      "margins": {
+        "leftIn": 0.94,
+        "rightIn": 1.037,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 17,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 5,
+      "title": "5. Mama Owl's Starry Tree (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.787,
+        "rightIn": 0.68,
+        "topIn": 0.51,
+        "bottomIn": 0.637,
+        "passes": true
+      }
+    },
+    {
+      "page": 18,
+      "category": "story",
+      "side": "verso",
+      "chapter": 6,
+      "title": "Chapter 6: The Map of Eight Lands (Story)",
+      "margins": {
+        "leftIn": 0.923,
+        "rightIn": 1.017,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 19,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 6,
+      "title": "6. The Map of Eight Lands (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.74,
+        "rightIn": 0.65,
+        "topIn": 0.51,
+        "bottomIn": 0.593,
+        "passes": true
+      }
+    },
+    {
+      "page": 20,
+      "category": "story",
+      "side": "verso",
+      "chapter": 7,
+      "title": "Chapter 7: Waking the First Little Spark (Story)",
+      "margins": {
+        "leftIn": 0.943,
+        "rightIn": 1.043,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 21,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 7,
+      "title": "7. Waking the First Little Spark (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.797,
+        "rightIn": 0.69,
+        "topIn": 0.51,
+        "bottomIn": 0.68,
+        "passes": true
+      }
+    },
+    {
+      "page": 22,
+      "category": "story",
+      "side": "verso",
+      "chapter": 8,
+      "title": "Chapter 8: Off on a Starlight Quest (Story)",
+      "margins": {
+        "leftIn": 0.98,
+        "rightIn": 1.08,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 23,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 8,
+      "title": "8. Off on a Starlight Quest (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.723,
+        "rightIn": 0.62,
+        "topIn": 0.51,
+        "bottomIn": 0.573,
+        "passes": true
+      }
+    },
+    {
+      "page": 24,
+      "category": "story",
+      "side": "verso",
+      "chapter": 9,
+      "title": "Chapter 9: The Giggly Mushroom Patch (Story)",
+      "margins": {
+        "leftIn": 0.983,
+        "rightIn": 1.08,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 25,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 9,
+      "title": "9. The Giggly Mushroom Patch (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.76,
+        "rightIn": 0.66,
+        "topIn": 0.51,
+        "bottomIn": 0.62,
+        "passes": true
+      }
+    },
+    {
+      "page": 26,
+      "category": "story",
+      "side": "verso",
+      "chapter": 10,
+      "title": "Chapter 10: The Hiccuping Toadstool (Story)",
+      "margins": {
+        "leftIn": 0.983,
+        "rightIn": 1.08,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 27,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 10,
+      "title": "10. The Hiccuping Toadstool (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.917,
+        "rightIn": 0.81,
+        "topIn": 0.51,
+        "bottomIn": 0.793,
+        "passes": true
+      }
+    },
+    {
+      "page": 28,
+      "category": "story",
+      "side": "verso",
+      "chapter": 11,
+      "title": "Chapter 11: The Moss-Bed Star (Story)",
+      "margins": {
+        "leftIn": 0.983,
+        "rightIn": 1.08,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 29,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 11,
+      "title": "11. The Moss-Bed Star (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.773,
+        "rightIn": 0.66,
+        "topIn": 0.51,
+        "bottomIn": 0.633,
+        "passes": true
+      }
+    },
+    {
+      "page": 30,
+      "category": "story",
+      "side": "verso",
+      "chapter": 12,
+      "title": "Chapter 12: Fluffy Sugar Hills (Story)",
+      "margins": {
+        "leftIn": 0.983,
+        "rightIn": 1.08,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 31,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 12,
+      "title": "12. Fluffy Sugar Hills (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.71,
+        "rightIn": 0.607,
+        "topIn": 0.51,
+        "bottomIn": 0.577,
+        "passes": true
+      }
+    },
+    {
+      "page": 32,
+      "category": "story",
+      "side": "verso",
+      "chapter": 13,
+      "title": "Chapter 13: The Sticky Caramel Puddle (Story)",
+      "margins": {
+        "leftIn": 0.983,
+        "rightIn": 1.08,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 33,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 13,
+      "title": "13. The Sticky Caramel Puddle (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.743,
+        "rightIn": 0.657,
+        "topIn": 0.51,
+        "bottomIn": 0.57,
+        "passes": true
+      }
+    },
+    {
+      "page": 34,
+      "category": "story",
+      "side": "verso",
+      "chapter": 14,
+      "title": "Chapter 14: The Star in the Cotton Cloud (Story)",
+      "margins": {
+        "leftIn": 0.93,
+        "rightIn": 1.03,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 35,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 14,
+      "title": "14. The Star in the Cotton Cloud (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.81,
+        "rightIn": 0.707,
+        "topIn": 0.51,
+        "bottomIn": 0.747,
+        "passes": true
+      }
+    },
+    {
+      "page": 36,
+      "category": "story",
+      "side": "verso",
+      "chapter": 15,
+      "title": "Chapter 15: Ahoy, Captain Button! (Story)",
+      "margins": {
+        "leftIn": 0.943,
+        "rightIn": 1.04,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 37,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 15,
+      "title": "15. Ahoy, Captain Button! (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.787,
+        "rightIn": 0.657,
+        "topIn": 0.51,
+        "bottomIn": 0.69,
+        "passes": true
+      }
+    },
+    {
+      "page": 38,
+      "category": "story",
+      "side": "verso",
+      "chapter": 16,
+      "title": "Chapter 16: Sailing the Twinkle Rapids (Story)",
+      "margins": {
+        "leftIn": 0.943,
+        "rightIn": 1.03,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 39,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 16,
+      "title": "16. Sailing the Twinkle Rapids (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.767,
+        "rightIn": 0.663,
+        "topIn": 0.51,
+        "bottomIn": 0.587,
+        "passes": true
+      }
+    },
+    {
+      "page": 40,
+      "category": "story",
+      "side": "verso",
+      "chapter": 17,
+      "title": "Chapter 17: The Star Under the Waterwheel (Story)",
+      "margins": {
+        "leftIn": 0.983,
+        "rightIn": 1.08,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 41,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 17,
+      "title": "17. The Star Under the Waterwheel (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.813,
+        "rightIn": 0.727,
+        "topIn": 0.51,
+        "bottomIn": 0.75,
+        "passes": true
+      }
+    },
+    {
+      "page": 42,
+      "category": "story",
+      "side": "verso",
+      "chapter": 18,
+      "title": "Chapter 18: Climbing the Pillow Peaks (Story)",
+      "margins": {
+        "leftIn": 0.983,
+        "rightIn": 1.08,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 43,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 18,
+      "title": "18. Climbing the Pillow Peaks (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.73,
+        "rightIn": 0.623,
+        "topIn": 0.51,
+        "bottomIn": 0.6,
+        "passes": true
+      }
+    },
+    {
+      "page": 44,
+      "category": "story",
+      "side": "verso",
+      "chapter": 19,
+      "title": "Chapter 19: The Snoring Bear Cave (Story)",
+      "margins": {
+        "leftIn": 0.983,
+        "rightIn": 1.08,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 45,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 19,
+      "title": "19. The Snoring Bear Cave (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.667,
+        "rightIn": 0.567,
+        "topIn": 0.51,
+        "bottomIn": 0.503,
+        "passes": true
+      }
+    },
+    {
+      "page": 46,
+      "category": "story",
+      "side": "verso",
+      "chapter": 20,
+      "title": "Chapter 20: The Star in the Honey Pot (Story)",
+      "margins": {
+        "leftIn": 0.93,
+        "rightIn": 1.027,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 47,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 20,
+      "title": "20. The Star in the Honey Pot (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.757,
+        "rightIn": 0.653,
+        "topIn": 0.51,
+        "bottomIn": 0.603,
+        "passes": true
+      }
+    },
+    {
+      "page": 48,
+      "category": "story",
+      "side": "verso",
+      "chapter": 21,
+      "title": "Chapter 21: The Bubble-Helmet Dive (Story)",
+      "margins": {
+        "leftIn": 0.927,
+        "rightIn": 1.023,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 49,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 21,
+      "title": "21. The Bubble-Helmet Dive (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.833,
+        "rightIn": 0.73,
+        "topIn": 0.51,
+        "bottomIn": 0.75,
+        "passes": true
+      }
+    },
+    {
+      "page": 50,
+      "category": "story",
+      "side": "verso",
+      "chapter": 22,
+      "title": "Chapter 22: Dancing with Glowing Jellyfish (Story)",
+      "margins": {
+        "leftIn": 0.933,
+        "rightIn": 1.043,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 51,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 22,
+      "title": "22. Dancing with Glowing Jellyfish (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.71,
+        "rightIn": 0.607,
+        "topIn": 0.51,
+        "bottomIn": 0.567,
+        "passes": true
+      }
+    },
+    {
+      "page": 52,
+      "category": "story",
+      "side": "verso",
+      "chapter": 23,
+      "title": "Chapter 23: The Pearl-Shell Star (Story)",
+      "margins": {
+        "leftIn": 0.933,
+        "rightIn": 1.023,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 53,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 23,
+      "title": "23. The Pearl-Shell Star (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.787,
+        "rightIn": 0.68,
+        "topIn": 0.51,
+        "bottomIn": 0.63,
+        "passes": true
+      }
+    },
+    {
+      "page": 54,
+      "category": "story",
+      "side": "verso",
+      "chapter": 24,
+      "title": "Chapter 24: Topsy-Turvy Tulips (Story)",
+      "margins": {
+        "leftIn": 0.93,
+        "rightIn": 1.027,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 55,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 24,
+      "title": "24. Topsy-Turvy Tulips (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.74,
+        "rightIn": 0.623,
+        "topIn": 0.51,
+        "bottomIn": 0.6,
+        "passes": true
+      }
+    },
+    {
+      "page": 56,
+      "category": "story",
+      "side": "verso",
+      "chapter": 25,
+      "title": "Chapter 25: The Dizzy Bumblebee (Story)",
+      "margins": {
+        "leftIn": 0.963,
+        "rightIn": 1.06,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 57,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 25,
+      "title": "25. The Dizzy Bumblebee (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.753,
+        "rightIn": 0.64,
+        "topIn": 0.51,
+        "bottomIn": 0.597,
+        "passes": true
+      }
+    },
+    {
+      "page": 58,
+      "category": "story",
+      "side": "verso",
+      "chapter": 26,
+      "title": "Chapter 26: The Star in the Hanging Bellflower (Story)",
+      "margins": {
+        "leftIn": 0.983,
+        "rightIn": 1.08,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 59,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 26,
+      "title": "26. The Star in the Hanging Bellflower (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.857,
+        "rightIn": 0.743,
+        "topIn": 0.51,
+        "bottomIn": 0.713,
+        "passes": true
+      }
+    },
+    {
+      "page": 60,
+      "category": "story",
+      "side": "verso",
+      "chapter": 27,
+      "title": "Chapter 27: Welcome to Tiny-House Town (Story)",
+      "margins": {
+        "leftIn": 0.933,
+        "rightIn": 1.043,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 61,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 27,
+      "title": "27. Welcome to Tiny-House Town (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.667,
+        "rightIn": 0.567,
+        "topIn": 0.51,
+        "bottomIn": 0.573,
+        "passes": true
+      }
+    },
+    {
+      "page": 62,
+      "category": "story",
+      "side": "verso",
+      "chapter": 28,
+      "title": "Chapter 28: The Lantern Parade Mix-Up (Story)",
+      "margins": {
+        "leftIn": 0.95,
+        "rightIn": 1.053,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 63,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 28,
+      "title": "28. The Lantern Parade Mix-Up (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.747,
+        "rightIn": 0.643,
+        "topIn": 0.51,
+        "bottomIn": 0.62,
+        "passes": true
+      }
+    },
+    {
+      "page": 64,
+      "category": "story",
+      "side": "verso",
+      "chapter": 29,
+      "title": "Chapter 29: The Star on the Festival Maypole (Story)",
+      "margins": {
+        "leftIn": 0.983,
+        "rightIn": 1.08,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 65,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 29,
+      "title": "29. The Star on the Festival Maypole (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.81,
+        "rightIn": 0.693,
+        "topIn": 0.51,
+        "bottomIn": 0.673,
+        "passes": true
+      }
+    },
+    {
+      "page": 66,
+      "category": "story",
+      "side": "verso",
+      "chapter": 30,
+      "title": "Chapter 30: The Swirly Cloud Stairs (Story)",
+      "margins": {
+        "leftIn": 0.983,
+        "rightIn": 1.08,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 67,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 30,
+      "title": "30. The Swirly Cloud Stairs (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.763,
+        "rightIn": 0.653,
+        "topIn": 0.51,
+        "bottomIn": 0.64,
+        "passes": true
+      }
+    },
+    {
+      "page": 68,
+      "category": "story",
+      "side": "verso",
+      "chapter": 31,
+      "title": "Chapter 31: A Grumpy Little Cloud (Story)",
+      "margins": {
+        "leftIn": 0.95,
+        "rightIn": 1.043,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 69,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 31,
+      "title": "31. A Grumpy Little Cloud (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.83,
+        "rightIn": 0.727,
+        "topIn": 0.51,
+        "bottomIn": 0.73,
+        "passes": true
+      }
+    },
+    {
+      "page": 70,
+      "category": "story",
+      "side": "verso",
+      "chapter": 32,
+      "title": "Chapter 32: A Hug for Grumble (Story)",
+      "margins": {
+        "leftIn": 0.983,
+        "rightIn": 1.08,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 71,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 32,
+      "title": "32. A Hug for Grumble (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.803,
+        "rightIn": 0.69,
+        "topIn": 0.51,
+        "bottomIn": 0.64,
+        "passes": true
+      }
+    },
+    {
+      "page": 72,
+      "category": "story",
+      "side": "verso",
+      "chapter": 33,
+      "title": "Chapter 33: The Friends Reunite (Story)",
+      "margins": {
+        "leftIn": 0.96,
+        "rightIn": 1.057,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 73,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 33,
+      "title": "33. The Friends Reunite (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.73,
+        "rightIn": 0.623,
+        "topIn": 0.51,
+        "bottomIn": 0.577,
+        "passes": true
+      }
+    },
+    {
+      "page": 74,
+      "category": "story",
+      "side": "verso",
+      "chapter": 34,
+      "title": "Chapter 34: The Starlight Ladder (Story)",
+      "margins": {
+        "leftIn": 0.983,
+        "rightIn": 1.08,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 75,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 34,
+      "title": "34. The Starlight Ladder (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.81,
+        "rightIn": 0.707,
+        "topIn": 0.51,
+        "bottomIn": 0.717,
+        "passes": true
+      }
+    },
+    {
+      "page": 76,
+      "category": "story",
+      "side": "verso",
+      "chapter": 35,
+      "title": "Chapter 35: Up, Up, and Twinkle! (Story)",
+      "margins": {
+        "leftIn": 0.95,
+        "rightIn": 1.047,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 77,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 35,
+      "title": "35. Up, Up, and Twinkle! (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.667,
+        "rightIn": 0.567,
+        "topIn": 0.51,
+        "bottomIn": 0.503,
+        "passes": true
+      }
+    },
+    {
+      "page": 78,
+      "category": "story",
+      "side": "verso",
+      "chapter": 36,
+      "title": "Chapter 36: The Grand Whisperwood Party (Story)",
+      "margins": {
+        "leftIn": 0.983,
+        "rightIn": 1.08,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 79,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 36,
+      "title": "36. The Grand Whisperwood Party (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.667,
+        "rightIn": 0.567,
+        "topIn": 0.51,
+        "bottomIn": 0.503,
+        "passes": true
+      }
+    },
+    {
+      "page": 80,
+      "category": "story",
+      "side": "verso",
+      "chapter": 37,
+      "title": "Chapter 37: A Gift from the Sky (Story)",
+      "margins": {
+        "leftIn": 0.973,
+        "rightIn": 1.07,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 81,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 37,
+      "title": "37. A Gift from the Sky (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.767,
+        "rightIn": 0.66,
+        "topIn": 0.51,
+        "bottomIn": 0.627,
+        "passes": true
+      }
+    },
+    {
+      "page": 82,
+      "category": "story",
+      "side": "verso",
+      "chapter": 38,
+      "title": "Chapter 38: Nova's Very Own Star (Story)",
+      "margins": {
+        "leftIn": 0.983,
+        "rightIn": 1.08,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 83,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 38,
+      "title": "38. Nova's Very Own Star (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.73,
+        "rightIn": 0.63,
+        "topIn": 0.513,
+        "bottomIn": 0.593,
+        "passes": true
+      }
+    },
+    {
+      "page": 84,
+      "category": "story",
+      "side": "verso",
+      "chapter": 39,
+      "title": "Chapter 39: Goodnight, Little Fox (Story)",
+      "margins": {
+        "leftIn": 0.983,
+        "rightIn": 1.08,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 85,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 39,
+      "title": "39. Goodnight, Little Fox (Coloring)",
+      "hasVisualFix": false,
+      "margins": {
+        "leftIn": 0.713,
+        "rightIn": 0.607,
+        "topIn": 0.51,
+        "bottomIn": 0.56,
+        "passes": true
+      }
+    },
+    {
+      "page": 86,
+      "category": "story",
+      "side": "verso",
+      "chapter": 40,
+      "title": "Chapter 40: Draw Your Own Star! (Story)",
+      "margins": {
+        "leftIn": 0.937,
+        "rightIn": 1.03,
+        "topIn": 1.81,
+        "bottomIn": 0.733,
+        "passes": true
+      }
+    },
+    {
+      "page": 87,
+      "category": "coloring",
+      "side": "recto",
+      "chapter": 40,
+      "title": "40. Draw Your Own Star! (Coloring)",
+      "hasVisualFix": true,
+      "fixSummaryAr": "إزالة تداخل نص \"My Star's Name:\" فوق أذن الثعلب نوفا وإعادة وضعه بفيكتور نظيف في المساحة الفارغة يمين الشخصية.",
+      "margins": {
+        "leftIn": 0.833,
+        "rightIn": 0.707,
+        "topIn": 0.513,
+        "bottomIn": 0.657,
+        "passes": true
+      }
+    },
+    {
+      "page": 88,
+      "category": "blank",
+      "side": "verso",
+      "title": "Blank Page (Back of Chapter 40)",
+      "margins": {
+        "leftIn": 8.5,
+        "rightIn": 8.5,
+        "topIn": 11,
+        "bottomIn": 11,
+        "passes": true
+      }
+    },
+    {
+      "page": 89,
+      "category": "certificate",
+      "side": "recto",
+      "title": "Official Star-Helper Certificate",
+      "margins": {
+        "leftIn": 0.807,
+        "rightIn": 0.667,
+        "topIn": 0.733,
+        "bottomIn": 0.823,
+        "passes": true
+      }
+    },
+    {
+      "page": 90,
+      "category": "blank",
+      "side": "verso",
+      "title": "Blank Page (Back of Certificate)",
+      "margins": {
+        "leftIn": 8.5,
+        "rightIn": 8.5,
+        "topIn": 11,
+        "bottomIn": 11,
+        "passes": true
+      }
+    },
+    {
+      "page": 91,
+      "category": "review",
+      "side": "recto",
+      "title": "Amazon Review Request",
+      "margins": {
+        "leftIn": 0.75,
+        "rightIn": 0.647,
+        "topIn": 0.65,
+        "bottomIn": 0.647,
+        "passes": true
+      }
+    },
+    {
+      "page": 92,
+      "category": "promo",
+      "side": "verso",
+      "title": "Coming Soon — Book 2 Preview",
+      "margins": {
+        "leftIn": 0.65,
+        "rightIn": 0.747,
+        "topIn": 0.65,
+        "bottomIn": 0.647,
+        "passes": true
+      }
+    }
+  ]
+}

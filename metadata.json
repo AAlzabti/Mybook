@@ -1,0 +1,6 @@
+{
+  "name": "Nova KDP Print Studio",
+  "description": "منصة تدقيق وترقية كتاب Nova and the Fallen Stars إلى فيكتور كامل ومطابقة معايير Amazon KDP بنسبة 100%.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
